@@ -1,3 +1,2 @@
 #!/bin/bash
-#we will use the command form an environment variable
 echo $PWD
