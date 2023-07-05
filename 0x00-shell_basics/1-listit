@@ -1,3 +1,2 @@
 #!/bin/bash
-#the command below is used to list the contentss of a file 
 echo "home root Desktop Documents Downloads"
