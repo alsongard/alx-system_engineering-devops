@@ -1,1 +1,1 @@
-task 0 is used to print out text to the terminal.
+the command i sued is echo "Hello, World"
