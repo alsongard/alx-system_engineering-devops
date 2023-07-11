@@ -1,1 +1,1 @@
-the command i sued is echo "Hello, World"
+the project is mainly focused in using redirections, grep, cut  and hello
